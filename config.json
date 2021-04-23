@@ -19,12 +19,12 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Label",
+    "groupSelectorAttribute": "Modularity Class",
     "hoverBehavior": "default"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": "Label"
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
