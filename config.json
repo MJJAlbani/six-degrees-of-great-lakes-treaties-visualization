@@ -14,17 +14,17 @@
   },
   "legend": {
     "edgeLabel": "Edge description",
-    "colorLabel": "Modularity",
+    "colorLabel": "Modularity class",
     "nodeLabel": "Node description"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "Label",
     "hoverBehavior": "default"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": false
+    "imageAttribute": "Label"
   },
   "sigma": {
     "drawingProperties": {
