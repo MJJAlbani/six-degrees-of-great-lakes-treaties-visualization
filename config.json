@@ -5,17 +5,17 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "MJA"
+    "text": "Michael J. Albani"
   },
   "text": {
     "more": "test graph",
     "intro": "test graph ",
-    "title": "test graph"
+    "title": "Six Degrees"
   },
   "legend": {
-    "edgeLabel": "Edge description",
-    "colorLabel": "Modularity class",
-    "nodeLabel": "Node description"
+    "edgeLabel": "Connections to Treaties",
+    "colorLabel": "Red circles denote treaties.",
+    "nodeLabel": "Treaty Signers"
   },
   "features": {
     "search": true,
