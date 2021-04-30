@@ -4,23 +4,23 @@
   "data": "data.json",
   "logo": {
     "file": "",
-    "link": "",
+    "link": "https://mjjalbani.github.io/six-degrees-of-great-lakes-treaties/",
     "text": "Michael J. Albani"
   },
   "text": {
-    "more": "During the late-eighteenth and nineteenth centuries, treaty negotiations served as critical sites of contact between Anishinaabeg – members of the Three Fires Confederacy of the Ojibwe, Odawa, and Potawatomi – Americans, and peoples of mixed ancestry across the Great Lakes. While the United States government attempted to exert total dominion over all the territory it claimed on paper, Indigenous inhabitants of the Great Lakes region strived to remain in their homelands. Over the course of several decades, many Anishinaabe and American individuals emerged as diplomats at multiple treaty negotiations. “Six Degrees of Great Lakes Treaties” is a digital humanities projects seeks to illustrate the connections between such individuals who presented themselves as representatives for their communities and nations time and again. Although the Great Lakes region may have been geographically vast, it was more socially close-knit than one might expect. ",
-    "intro": "test graph ",
+    "more": "During the late-eighteenth and nineteenth centuries, treaty negotiations served as critical sites of contact between Anishinaabeg – members of the Three Fires Confederacy of the Ojibwe, Odawa, and Potawatomi – Americans, and peoples of mixed ancestry across the Great Lakes. While the United States government attempted to exert total dominion over all the territory it claimed on paper, Indigenous inhabitants of the Great Lakes region strived to remain in their homelands. Over the course of several decades, many Anishinaabe and American individuals emerged as diplomats at multiple treaty negotiations. “Six Degrees of Great Lakes Treaties” is a digital cultural heritage project that seeks to illustrate the connections between such individuals who presented themselves as representatives for their communities and nations time and time again. Although the Great Lakes region may have been geographically vast, recurring diplomatic entanglements rendered it more socially close-knit than one might expect.",
+    "intro": "“Six Degrees of Great Lakes Treaties” is a digital cultural heritage project that seeks to illustrate the connections between Anishinaabe and American individuals who presented themselves as representatives for their communities and nations time and time again. Clicking on the circles in the visualization reveals the names of such individuals along with the late-eighteenth or nineteenth-century Indigenous land cession treaties they signed, and positions of authority they claimed to possess.",
     "title": "Six Degrees of Great Lakes Treaties"
   },
   "legend": {
-    "edgeLabel": "Connections to Treaties",
-    "colorLabel": "Red circles denote treaties.",
+    "edgeLabel": "Connections to Signed Treaties",
+    "colorLabel": "Red circles represent treaties while all other circles represent individuals.",
     "nodeLabel": "Treaty Signers"
   },
   "features": {
     "search": true,
     "groupSelectorAttribute": false,
-    "hoverBehavior": "dim"
+    "hoverBehavior": "default"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
