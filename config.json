@@ -8,9 +8,9 @@
     "text": "Michael J. Albani"
   },
   "text": {
-    "more": "test graph",
+    "more": "During the late-eighteenth and nineteenth centuries, treaty negotiations served as critical sites of contact between Anishinaabeg – members of the Three Fires Confederacy of the Ojibwe, Odawa, and Potawatomi – Americans, and peoples of mixed ancestry across the Great Lakes. While the United States government attempted to exert total dominion over all the territory it claimed on paper, Indigenous inhabitants of the Great Lakes region strived to remain in their homelands. Over the course of several decades, many Anishinaabe and American individuals emerged as diplomats at multiple treaty negotiations. “Six Degrees of Great Lakes Treaties” is a digital humanities projects seeks to illustrate the connections between such individuals who presented themselves as representatives for their communities and nations time and again. Although the Great Lakes region may have been geographically vast, it was more socially close-knit than one might expect. ",
     "intro": "test graph ",
-    "title": "Six Degrees"
+    "title": "Six Degrees of Great Lakes Treaties"
   },
   "legend": {
     "edgeLabel": "Connections to Treaties",
@@ -20,7 +20,7 @@
   "features": {
     "search": true,
     "groupSelectorAttribute": false,
-    "hoverBehavior": "default"
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
